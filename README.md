@@ -3,7 +3,7 @@
 ## Overview
 
 - `C2A-AOBC-EXAMPLE` is an example of a project-specific repository of `C2A-AOBC`.
-- Users can copy this directory to make their simulation environment.
+- Users can refer this directory to make their flight software repository.
   - **NOTE**: Please rewrite all words like `example, EXAMPLE, or Example` to suit your project in this document after you copy the directory. After that, please delete this description.
 - For other detailed descriptions, please also see README of [c2a-aobc](https://github.com/ut-issl/c2a-aobc).
 
@@ -11,7 +11,7 @@
 
 - Directory tree
   ```
-  - c2a-aobc-example (Examples directory)
+  - c2a-aobc-example
     - src_aobc (git submodule)
     - src_aobc_example
     - project definition files.
@@ -24,7 +24,6 @@
 ## Build with vMicro for real AOBC (Attitude On Board Computer) development
 
 - Please see the `README` of [c2a-aobc](./src_aobc/README.md)
-  - This link will be available after the repository construction of `c2a-aobc-example`.
 
 ## Build with S2E for SILS test
 
